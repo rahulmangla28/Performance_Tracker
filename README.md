@@ -18,3 +18,24 @@ Forget the piles of paperwork! Performance Tracker revolutionizes student projec
 - Frontend : React.Js, Tailwind CSS
 - Backend : Node.Js, Express.Js
 - Database : MongoDB
+
+# Screenshots
+
+Select Mentor | Home Page 
+--- | --- |
+<img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Select%20Mentor.png" height="300" width="500" > | <img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Home%20Page.png" height="300" width="500" >
+
+Add Mentor | Add Student
+--- | --- |
+<img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Add%20New%20Mentor.png" height="300" width="500" >  | <img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Add%20New%20Student.png" height = "300" width="500" >
+
+Edit Selected Student | Assign Marks
+--- | --- |
+<img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Edit%20Selected%20Students.png" height="300" width="500" > | <img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Assign%20Marks.png" height="300" width="500" >
+
+Lock Data
+--- |
+<img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Locked%20Data.png" height="300" width="500" > 
+
+
+
