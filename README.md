@@ -1,8 +1,8 @@
-# Performance Tracker
+# <img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/frontend/public/favicon/android-chrome-192x192.png" height="30" width="30" > Performance Tracker
 
 Forget the piles of paperwork! Performance Tracker revolutionizes student project evaluation for mentors, transforming it from a cumbersome task into a frictionless experience. This innovative web application empowers mentors to become bastions of efficiency by facilitating the seamless allocation of students, offering a comprehensive rubric system for meticulous evaluations, and enabling effortless submission with an intuitive interface.
 
-# Features
+## ✨ Features
 
 - **Add Mentor**: Admin can use the add mentor functionality to add new mentors.
 - **Assign Students**: Mentors can add students to be evaluated, ensuring that each mentor accommodates a minimum of 3 and a maximum of 4 students at a time.
@@ -13,13 +13,13 @@ Forget the piles of paperwork! Performance Tracker revolutionizes student projec
 - **Email Notifications**: Automatically send email notifications to assigned students once the mentor submits the evaluation, notifying them that the evaluation has been completed.
 - **Marksheet Generation**: Download a mark sheet for each student in document(xlsx) format, providing a summary of all students' marks.
 
-# Technologies Used
+## 📑 Technologies Used
 
 - Frontend : React.Js, Tailwind CSS
 - Backend : Node.Js, Express.Js
 - Database : MongoDB
 
-# Screenshots
+## 📸 Screenshots
 
 Select Mentor | Home Page 
 --- | --- |
