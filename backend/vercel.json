@@ -4,10 +4,10 @@
         { "src": "index.js", 
         "use": "@vercel/node"}
     ],
-    "routes": [
+    "rewrites": [
         {
           "src": "/(.*)",
-          "dest": "/"
+          "dest": "index.js"
         }
     ]
 }
