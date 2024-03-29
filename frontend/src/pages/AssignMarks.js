@@ -107,13 +107,13 @@ const AssignMarks = () => {
                     <EvalMarksInputField label={'Viva'} name={'vivaPitch'} isEditable={notAllowed} />
                     <button
                         type='button'
-                        className='bg-blue-500 text-white mr-4 py-2 px-4 rounded-md hover:bg-red-600 hover:cursor-pointer'
+                        className='bg-purple-300 hover:bg-purple-500 text-black mr-4 py-2 px-4 rounded-md hover:bg-red-600 hover:cursor-pointer'
                         onClick={() => handleSubmitAndLock(marks)}
                         disabled={notAllowed}
                     >
                         Lock
                     </button>
-                    <button type='submit' className='bg-blue-500 text-white mr-4 py-2 px-4 rounded-md hover:bg-blue-800 hover:cursor-pointer'
+                    <button type='submit' className='bg-purple-300 hover:bg-purple-500 text-black mr-4 py-2 px-4 rounded-md hover:cursor-pointer'
                         disabled={notAllowed}
                     >
                         Submit
