@@ -93,7 +93,7 @@ const EditSelectedStudentPage = () => {
                     <div className='flex flex-col sm:flex-row justify-items-end sm:justify-between'>
                         <h1 className="text-xl md:text-3xl font-bold my-4 md:mt-4">Edit Selected Students</h1>
                         <button className='flex justify-end items-center'>
-                            <a href='/addNew' className='p-3 bg-blue-500 hover:bg-blue-600 text-white text-sm sm:text-base rounded-md'>
+                            <a href='/addNew' className='p-3 bg-purple-300 hover:bg-purple-500 text-black text-sm sm:text-base rounded-md'>
                                 Add new student
                             </a>
                         </button>
@@ -128,11 +128,6 @@ const EditSelectedStudentPage = () => {
                                                     <StudentCard user={student} controls={false} />
                                                 </label>
                                             </div>
-                                            {student.isLocked && (
-                                                <span className="text-red-600 ml-2">
-                                                    <LockIcon />
-                                                </span>
-                                            )}
                                         </div>
                                     ))}
                                 </div>
@@ -140,7 +135,7 @@ const EditSelectedStudentPage = () => {
                                     {alreadyAssignedStudents.length >= 3 && alreadyAssignedStudents.length <= 4 && (
                                         <button
                                             type="submit"
-                                            className="py-2 px-4 bg-blue-500 hover:bg-blue-600 text-white rounded-md w-1/4"
+                                            className="py-2 px-4 bg-purple-300 hover:bg-purple-500 text-black rounded-md w-1/4"
                                         >
                                             Submit
                                         </button>
