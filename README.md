@@ -19,6 +19,10 @@ Forget the piles of paperwork! Performance Tracker revolutionizes student projec
 - Backend : Node.Js, Express.Js
 - Database : MongoDB
 
+## 🎥 Visual Presentation
+
+https://github.com/rahulmangla28/Performance_Tracker/assets/93324315/dad2f2a1-562b-43a0-b322-47b5dd9dfba1
+
 ## 📸 Screenshots
 
 Select Mentor | Home Page 
