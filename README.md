@@ -1,8 +1,8 @@
-# Performance Tracker
+# <img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/frontend/public/favicon/android-chrome-192x192.png" height="30" width="30" > Performance Tracker
 
 Forget the piles of paperwork! Performance Tracker revolutionizes student project evaluation for mentors, transforming it from a cumbersome task into a frictionless experience. This innovative web application empowers mentors to become bastions of efficiency by facilitating the seamless allocation of students, offering a comprehensive rubric system for meticulous evaluations, and enabling effortless submission with an intuitive interface.
 
-# Features
+## ✨ Features
 
 - **Add Mentor**: Admin can use the add mentor functionality to add new mentors.
 - **Assign Students**: Mentors can add students to be evaluated, ensuring that each mentor accommodates a minimum of 3 and a maximum of 4 students at a time.
@@ -13,8 +13,29 @@ Forget the piles of paperwork! Performance Tracker revolutionizes student projec
 - **Email Notifications**: Automatically send email notifications to assigned students once the mentor submits the evaluation, notifying them that the evaluation has been completed.
 - **Marksheet Generation**: Download a mark sheet for each student in document(xlsx) format, providing a summary of all students' marks.
 
-# Technologies Used
+## 📑 Technologies Used
 
 - Frontend : React.Js, Tailwind CSS
 - Backend : Node.Js, Express.Js
 - Database : MongoDB
+
+## 📸 Screenshots
+
+Select Mentor | Home Page 
+--- | --- |
+<img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Select%20Mentor.png" height="300" width="500" > | <img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Home%20Page.png" height="300" width="500" >
+
+Add Mentor | Add Student
+--- | --- |
+<img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Add%20New%20Mentor.png" height="300" width="500" >  | <img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Add%20New%20Student.png" height = "300" width="500" >
+
+Edit Selected Student | Assign Marks
+--- | --- |
+<img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Edit%20Selected%20Students.png" height="300" width="500" > | <img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Assign%20Marks.png" height="300" width="500" >
+
+Lock Data
+--- |
+<img src="https://github.com/rahulmangla28/Performance_Tracker/blob/main/Screenshots/Locked%20Data.png" height="300" width="500" > 
+
+
+
